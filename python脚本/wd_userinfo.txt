@@ -1,0 +1,2 @@
+username = uppadmin
+pwd = 1qazxsw2

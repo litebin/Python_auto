@@ -1,0 +1,4 @@
+url = http://10.214.168.88:7999/index.html
+user_id  = id-input
+pwd_id  = password-input
+login_id = //body//form//button[1]
